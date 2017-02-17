@@ -1,0 +1,11 @@
+<template>
+  <div style="background-color: red;">
+    <text>tab2</text>
+  </div>
+</template>
+<script>
+module.exports = {
+  data: {
+  }
+}
+</script>
